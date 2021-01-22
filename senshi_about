@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+	<title>SENSHI</title>
+	<link rel="stylesheet" href="css_stylesheet_senshi.css" >
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script>
+	var japan_tee=[3,"XS",4,"S",5,"M",4,"L",2,"XL"];
+
+	 function function_max(){
+	 	var waarde_selector;
+	 	var max_aantal;
+
+	 	waarde_selector = document.getElementsByClassName("single-option-selector").value;
+
+	 	if (waarde_selector=="XS") {
+	      max_aantal = japan_tee[0];
+	 	}
+	 	if (waarde_selector=="S") {
+	      max_aantal = japan_tee[0];
+	 	}
+	 	if (waarde_selector=="M") {
+	      max_aantal = japan_tee[0];
+	 	}
+	 	if (waarde_selector=="L") {
+	      max_aantal = japan_tee[0];
+	 	}
+	 	if (waarde_selector=="XL") {
+	      max_aantal = japan_tee[0];
+	 	}
+	 	document.getElementsById("aantal").max = max_aantal;
+	 }
+</script>
+</head>
+
+<body>
+<a href="senshi.be"><img id="logo" src="C:\Users\cedric\Desktop\senshi\senshi.png" alt="senshi's logo" width= "615" height= "441"></a>
+<div class="topnav">
+	<a href="C:\Users\cedric\Desktop\senshi\senshi_home.html">home</a>
+	<a href="C:\Users\cedric\Desktop\senshi\senshi_shop.html">shop</a>
+	<a href="C:\Users\cedric\Desktop\senshi\senshi_about.html">about</a>
+	<a href="C:\Users\cedric\Desktop\senshi\senshi_shoppingcart.html"><i class='fas fa-shopping-cart'></i></a>
+</div>
+
+<div class="personal_container">
+	<div class="image_isaac">
+		<img src="C:\Users\cedric\Desktop\senshi\isaac.jpg" width="750" height="1334">
+	</div>
+</div>
+
+<div class="bron">
+	<p id="bron_senshi">SENSHI™ by Isaac Van de Velde</p>
+	<p id="bron_website">powered by Cédric Devos</p>
+
+</div>
+</body>
