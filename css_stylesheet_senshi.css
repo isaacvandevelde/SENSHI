@@ -1,4 +1,6 @@
-
+#logo{
+  max-width:615px;
+}
 a #logo{
   display: block;
   width: 307px;
