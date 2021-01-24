@@ -44,6 +44,8 @@ a #logo{
 }
 .tekstje{
  font-size: 1.3em;
+ max-width: 615px;
+ margin: auto;
 }
 .topnav a {
   float: left;
