@@ -42,7 +42,9 @@ a #logo{
   margin: auto;
   position: relative;
 }
-
+.tekstje{
+ font-size: 1.3em;
+}
 .topnav a {
   float: left;
   color: black;
