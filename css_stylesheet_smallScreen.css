@@ -27,6 +27,7 @@ h2 {
     font-family: adelle-sans,sans-serif;
     transition: color .2s ease;
     text-align: center;
+    position: relative;
 }
 .card {
   width: 600px;
@@ -42,6 +43,7 @@ h2 {
   padding-top: 5px;
   margin: auto;
   max-width: 600px;
+  position: relative;
     
 }
 #logo{
@@ -65,6 +67,7 @@ h2 {
  max-width: 400px;
  position: relative;
  display: block;
+ position: relative;
 }
 #foto_lookbook{
  max-width:397px;
@@ -72,6 +75,7 @@ h2 {
  position: relative;
  margin-top:15px;
  display: block;
+ position: relative;
 }
 .topnav{
   max-width: 100px;
@@ -121,6 +125,7 @@ p{
 	width: 400px;
 	max-width: 400px;
 	margin:auto;
+	position: relative;
 }
 a #productlink{
 	width: 307px;
@@ -162,6 +167,7 @@ a #productlink{
     display: inline-block;
     margin:auto;
     max-width: 400px;
+    position: relative;
 
 }
 .beschrijving{
