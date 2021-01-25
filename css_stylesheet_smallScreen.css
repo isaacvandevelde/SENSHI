@@ -1,5 +1,5 @@
 body{
-	background-image: url(wallpaper.jpg);
+    background-image: url(wallpaper.jpg);
     font-family: adelle-sans,sans-serif;
 }
 a{
@@ -150,6 +150,8 @@ a #productlink{
 	width: 307px;
 	max-width: 307px;
 	margin:auto;
+	display: block;
+
 }
 .tekstje{
 	font-size: 1.3em;
