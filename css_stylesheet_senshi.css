@@ -1,0 +1,341 @@
+#logo{
+  max-width:615px;
+}
+a #logo{
+  display: block;
+  width: 307px;
+  height: 220px;
+  margin: auto;
+  z-index: -1;
+}
+
+#INTRO_IMAGE{
+	max-width: 615px;
+	margin: auto;
+	
+}
+#gif_cherry{
+	margin: auto;
+	max-width: 615px;
+}
+#SHOP{
+	margin: auto;
+	max-width: 615px;
+}
+#ABOUT{
+	margin: auto;
+	max-width: 615px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: none;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #000;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  transition: color .2s ease;
+  text-align: center;
+  justify-content: space-between;
+  max-width: 700px;
+  margin: auto;
+  position: relative;
+}
+.tekstje{
+ font-size: 1.3em;
+ max-width: 615px;
+ margin: auto;
+}
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 75px;
+  text-decoration: none;
+  font-size: 22px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: auto;
+  margin-bottom:auto;
+  display: inline-block;
+
+}
+
+.topnav a:hover {
+  background-color: black;
+  color: white;
+}
+
+h1{
+  box-sizing: border-box;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #000;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  transition: color .2s ease;
+  text-align:center;
+}
+p{
+  max-width: 615px;
+  margin: auto;
+  font-family: adelle-sans, sans-serif;
+  font-weight: bold;
+}
+
+input{
+  background-color: white;
+  color: black;
+  font-family: adelle-sans, sans-serif;
+  font-size:20px;
+  border-width: 2px;
+  font-weight: bold;
+  transform: uppercase;
+}
+
+.product{
+  display: block;
+  margin: auto;
+  max-width: 800px;
+}
+.beschrijving{
+ display: inline-block;
+ border: 2px;
+ border-style: solid;
+ border-color: rgb(144,144,144);
+ padding-left: 5px;
+}
+form{
+  font-family: adelle-sans, sans-serif;
+  font-size:20px;
+  font-weight: bold;
+  margin-top: 10px;
+  border-width: 2px;
+}
+#single-option-selector{
+  font-family: adelle-sans, sans-serif;
+  font-size:20px;
+  font-weight: bold;
+}
+select{
+  background-position:right;
+  border-width:2px;
+  padding: 5px 19px 5px 10px;
+}
+#aantal{
+  padding: 5px 0px 5px 10px;
+}
+.beschrijving{
+  float:right;
+}
+
+.foto-front-artikel img{
+  float: left;
+  display: inline-block;
+  }
+.foto-front-artikel img{
+  float: left;
+  display: inline-block;
+}
+#selectoren{
+  max-width: 85px;
+}
+#toevoegen_winkelmandje{
+  font-family: adelle-sans,sans-serif;
+  float: left;
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: auto;
+  margin-bottom:15px;
+  display: inline-block;
+  font-weight: 900;
+}
+
+#toevoegen_winkelmandje:hover{
+  opacity: 0.5;
+}
+div.bron{
+  padding-right: 10px;
+  padding-left: 10px;
+  display:block;
+  margin-top: 200px;
+  text-align: center;
+  padding: 30px 0px 0px 0px;
+  font-weight: bold;
+  width: 100%;
+  bottom: 10px;
+  max-height: 120px;
+}
+
+#prijs{
+  background-color: none;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #000;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  float: left;
+  display: block;
+  padding-top: 2px;
+  margin: 10px
+}
+#gif_cherry{
+	max-width: 600px;
+	margin:auto;
+	display: block;
+}
+
+.lookbook{
+  max-width: 615px;
+  margin:auto;
+
+}
+
+#sticker1{
+  margin-bottom: none;
+  margin: auto;
+  width: 615px;
+  max-width:615px;
+}
+
+.tabelWinkelkar {
+ font-family: adelle-sans,sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tabelWinkelkar td, .tabelWinkelkar th {
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.tabelWinkelkar th {
+  font-family: adelle-sans,sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-weight: bold;
+  text-align: left;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+table{
+  margin: auto;
+  max-width: 700px;
+}
+
+body{
+  background-image: url("wallpaper.jpg");
+}
+
+#welcome_shop{
+  color: black;
+  transform: uppercase;
+  max-width: 410px;
+  margin: auto;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+h2{box-sizing: border-box;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: black;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  transition: color .2s ease;
+  text-align:center;}
+
+.card {
+  width: 630px;
+  margin:auto;
+  display: block;
+  text-align: center;
+  color:black;
+  cursor: pointer;
+  
+}
+.card img{
+  height:415px;
+  width: 615px;
+  padding-top: 5px;
+  margin: auto;
+  max-width: 615px;
+	
+}
+.card :hover {
+  opacity: 0.85;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+
+.fa{
+  padding-right: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: none;
+  border-radius: 50%; 
+  display: inline-block;
+  float:right;
+  visibility: hidden;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+  background: none;
+  color: black;
+  float:right;
+}
+#product_link{
+  max-width: 50px;
+  margin: auto;
+}
+
+
+#social-mediabar{
+  float: right;
+  text-align: center;
+  padding: 0px;
+  display:block;
+  z-index:-2;
+  display: inline-block;
+  position: relative;
+  max-height: 80px;
+  max-width: 400px;
+  bottom:10px;
+  position: relative;
+}
+h3{
+  overflow: hidden;
+  background-color: none;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #000;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  transition: color .2s ease;
+  text-align: center;
+  justify-content: space-between;
+}
+br{
+  letter-spacing: 3px;
+}
+
