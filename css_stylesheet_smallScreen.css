@@ -142,6 +142,8 @@ a #productlink{
     width:400px;
     max-width: 400px;
     margin:auto;
+    position: relative;
+    display: block;
 }
 #img_about{
 	width: 365px;
@@ -170,7 +172,7 @@ a #productlink{
 
 }
 .beschrijving{
-    max-width: 150px;
+    max-width: 125px;
     float:right;
     display: inline-block;
     position: relative;
