@@ -112,7 +112,7 @@ h2 {
     text-align: center;
 }
 p{
-	max-width: 307px;
+    max-width: 307px;
     margin: auto;
     font-family: adelle-sans, sans-serif;
     font-weight: bold;
@@ -152,13 +152,13 @@ a #productlink{
 	position: relative;
 }
 .tekstje{
-	font-size: 1.3em;
+    font-size: 1.3em;
     max-width: 425px;
     margin: auto;
 }
 #artikel{
-    width: 450px;
-    max-width: 450px;
+    width: 400px;
+    max-width: 400px;
     margin: auto;
     display: block;
     position: relative;
