@@ -109,6 +109,7 @@ h2 {
     font-family: adelle-sans, sans-serif;
     font-weight: bold;
     font-size: 16px;
+    text-align: center;
 }
 p{
 	max-width: 307px;
@@ -161,10 +162,10 @@ a #productlink{
     position: relative;
 }
 #img_product{
-    width:340px;
+    width:250px;
     display: inline-block;
     margin:auto;
-    max-width: 340px;
+    max-width: 250px;
     position: relative;
 
 }
@@ -193,6 +194,6 @@ a #productlink{
 	position: relative;
 }
 .product{
-	max-width: 500px;
+	max-width: 480px;
 	margin: auto;
 }
