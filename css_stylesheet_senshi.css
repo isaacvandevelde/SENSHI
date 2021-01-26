@@ -338,4 +338,10 @@ h3{
 br{
   letter-spacing: 3px;
 }
-
+#img_about{
+   width: 615px;
+   max-width:615px;
+   margin: auto;
+   display: block;
+   position: relative;
+}
