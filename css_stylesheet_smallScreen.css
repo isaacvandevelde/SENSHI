@@ -56,6 +56,7 @@ h2 {
 }
 #gif_cherry{
  width:350px;
+ margin-top: 5px;
  margin:auto;
  max-width: 350px;
  position: relative;
@@ -141,6 +142,7 @@ a #productlink{
 #img_shop{
     width:350px;
     max-width: 350px;
+    margin-top: 5px;
     margin:auto;
     position: relative;
     display: block;
@@ -148,6 +150,7 @@ a #productlink{
 #img_about{
 	width: 365px;
 	max-width: 365px;
+	margin-top: 5px;
 	margin:auto;
 	position: relative;
 }
