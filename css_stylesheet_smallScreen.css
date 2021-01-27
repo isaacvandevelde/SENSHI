@@ -195,7 +195,7 @@ a #productlink{
     float:right;
     display: inline-block;
     position: relative;
-    margin:1px;
+    margin:auto;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(144,144,144);
@@ -217,4 +217,8 @@ a #productlink{
 .product{
 	max-width: 480px;
 	margin: auto;
+}
+#beschrijving{
+   margin-bottom: 0px;
+   margin-top: 1px;
 }
