@@ -55,21 +55,21 @@ h2 {
     display: block;
 }
 #gif_cherry{
- width:400px;
+ width:350px;
  margin:auto;
- max-width: 400px;
+ max-width: 350px;
  position: relative;
  display: block;
 }
 #sticker1{
- width:400px;
+ width:350px;
  margin:auto;
- max-width: 400px;
+ max-width: 350px;
  position: relative;
  display: block;
 }
 #foto_lookbook{
- max-width:397px;
+ max-width:350px;
  margin:auto;
  position: relative;
  margin-top:15px;
@@ -139,8 +139,8 @@ a #productlink{
     font-weight: bold;
 }
 #img_shop{
-    width:400px;
-    max-width: 400px;
+    width:350px;
+    max-width: 350px;
     margin:auto;
     position: relative;
     display: block;
@@ -157,8 +157,8 @@ a #productlink{
     margin: auto;
 }
 #artikel{
-    width: 400px;
-    max-width: 400px;
+    width: 350px;
+    max-width: 350px;
     margin: auto;
     display: block;
     position: relative;
@@ -183,7 +183,7 @@ a #productlink{
 }
 #prijs{
     font-weight:900;
-    font-size: 25px;
+    font-size: 21px;
 }
 .fa{
 	visibility: hidden;
