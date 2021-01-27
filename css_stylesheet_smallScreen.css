@@ -182,15 +182,15 @@ a #productlink{
     position: relative;
 }
 #img_product{
-    width:250px;
+    width:60%;
     display: inline-block;
     margin:auto;
-    max-width: 250px;
+    max-width: 70%;
     position: relative;
 
 }
 .beschrijving{
-    max-width: 120px;
+    max-width: 30%;
     max-height: 300px;
     float:right;
     display: inline-block;
