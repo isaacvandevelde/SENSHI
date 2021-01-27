@@ -133,7 +133,6 @@ p{
 	float:right;
 }
 #SHOP{
-	width: 400px;
 	max-width: 400px;
 	margin:auto;
 }
@@ -161,7 +160,6 @@ a #productlink{
     display: block;
 }
 #img_about{
-	width: 365px;
 	max-width: 365px;
 	margin-top: 5px;
 	margin-left:auto;
