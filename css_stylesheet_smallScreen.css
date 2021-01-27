@@ -118,6 +118,9 @@ p{
     font-family: adelle-sans, sans-serif;
     font-weight: bold;
 }
+p #bron_tekst{
+  text-align: center;
+}
 #social-mediabar{
 	float:right;
 }
