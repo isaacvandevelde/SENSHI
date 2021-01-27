@@ -104,7 +104,7 @@ h2 {
 	width: 100%;
 	margin-top: 100px;
 }
-p #bron_tekst{
+#bron_tekst{
     max-width: 307px;
     margin: auto;
     font-family: adelle-sans, sans-serif;
@@ -126,9 +126,7 @@ p{
     font-family: adelle-sans, sans-serif;
     font-weight: bold;
 }
-p #bron_tekst{
-  text-align: center;
-}
+
 #social-mediabar{
 	float:right;
 }
