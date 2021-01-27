@@ -143,7 +143,9 @@ a #productlink{
     width:350px;
     max-width: 350px;
     margin-top: 5px;
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
     position: relative;
     display: block;
 }
@@ -151,7 +153,9 @@ a #productlink{
 	width: 365px;
 	max-width: 365px;
 	margin-top: 5px;
-	margin:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
 	position: relative;
 }
 .tekstje{
