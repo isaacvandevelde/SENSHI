@@ -44,7 +44,9 @@ h2 {
   margin: auto;
   max-width: 397px;
   position: relative;
-    
+    }
+p {
+  font-weight:bold;
 }
 #logo{
     width: 307px;
