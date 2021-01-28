@@ -79,7 +79,7 @@ p {
  display: block;
 }
 .topnav{
-  max-width: 100px;
+  max-width: 450px;
   overflow: hidden;
   background-color: none;
   font-size: 1.3em;
@@ -95,12 +95,13 @@ p {
   position: relative;
 }
 .topnav a{
- max-width:227px;
+ max-width:100px;
  margin:auto;
  text-decoration: none;
  color:black;
  font-size: 25px;
  display: inline-block;
+ padding: 5px;
 }
 .bron{
 	min-width: 100%;
