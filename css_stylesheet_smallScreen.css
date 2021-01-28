@@ -57,11 +57,15 @@ p {
 }
 #gif_cherry{
  width:350px;
- height: 450px;
  margin-top: 5px;
+ margin-right:auto;
+ margin-left:auto;
+ margin-bottom:auto;
+ max-width: 400px;
  margin:auto;
  max-width: 350px;
-
+ position: relative;
+ display: block;
 }
 #sticker1{
  width:350px;
