@@ -1,5 +1,5 @@
 body{
-	background-image: url(wallpaper.jpg);
+  background-image: url(wallpaper.jpg);
     font-family: adelle-sans,sans-serif;
 }
 a{
@@ -57,10 +57,12 @@ p {
     display: block;
 }
 #gif_cherry{
- width:350px;
+ width:400px;
  margin-top: 5px;
- margin:auto;
- max-width: 350px;
+ margin-right:auto;
+ margin-left:auto;
+ margin-bottom:auto;
+ max-width: 400px;
  position: relative;
  display: block;
 }
@@ -104,8 +106,8 @@ p {
  padding: 5px;
 }
 .bron{
-	min-width: 100%;
-	margin-top: 100px;
+  min-width: 100%;
+  margin-top: 100px;
 }
 #bron_tekst{
     max-width: 307px;
@@ -131,16 +133,16 @@ p{
 }
 
 #social-mediabar{
-	float:right;
+  float:right;
 }
 #SHOP{
-	max-width: 400px;
-	margin:auto;
+  max-width: 400px;
+  margin:auto;
 }
 a #productlink{
-	width: 307px;
-	max-width: 307px;
-	margin:auto;
+  width: 307px;
+  max-width: 307px;
+  margin:auto;
 }
 #welcome_shop {
     color: black;
@@ -161,12 +163,12 @@ a #productlink{
     display: block;
 }
 #img_about{
-	max-width: 340px;
-	margin-top: 5px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-bottom: auto;
-	position: relative;
+  max-width: 340px;
+  margin-top: 5px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+  position: relative;
 }
 .tekstje{
     font-size: 1.3em;
@@ -180,21 +182,31 @@ a #productlink{
     display: block;
     position: relative;
 }
-#img_product{
-    width:60%;
-    display: inline-block;
-    margin:auto;
-    max-width: 70%;
-    position: relative;
-
+.fa{
+  visibility: hidden;
+}
+.personal-container{
+  margin:auto;
+  width:340px;
+  max-width: 340px;
+  display: block;
+  position: relative;
+}
+.product{
+  width:350px;
+  max-width: 350px;
+  margin: auto;
+}
+#beschrijving{
+   text-align: center;
+   margin-top: 2px;
+   margin-bottom: 0px;
 }
 .beschrijving{
-    max-width: 30%;
-    max-height: 300px;
-    float:right;
-    display: inline-block;
+    width: 350px;
+    max-width: 350px;
     position: relative;
-    margin:auto;
+    margin: auto;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(144,144,144);
@@ -202,22 +214,18 @@ a #productlink{
 #prijs{
     font-weight:900;
     font-size: 21px;
+    text-align: center;
+    margin-top: 3px;
 }
-.fa{
-	visibility: hidden;
-}
-.personal-container{
-	margin:auto;
-	width:340px;
-	max-width: 340px;
-	display: block;
-	position: relative;
-}
-.product{
-	max-width: 480px;
-	margin: auto;
-}
-#beschrijving{
-   margin-bottom: 0px;
-   margin-top: 1px;
+#img_product{
+    width: 350px;
+    display: block;
+    margin:auto;
+    max-width: 350px;
+    position: relative;
+    margin-top:30px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+
 }
