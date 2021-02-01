@@ -170,8 +170,14 @@ a #productlink{
 }
 .tekstje{
     font-size: 1.3em;
-    max-width: 425px;
-    margin: auto;
+    width:350px;
+    max-width: 350px;
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    position: relative;
+    display: block;
 }
 #artikel{
     width: 350px;
