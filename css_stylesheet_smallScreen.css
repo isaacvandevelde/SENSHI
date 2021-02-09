@@ -169,6 +169,7 @@ a #productlink{
   position: relative;
 }
 .tekstje{
+    text-align: center;
     font-size: 1.3em;
     width:350px;
     max-width: 350px;
