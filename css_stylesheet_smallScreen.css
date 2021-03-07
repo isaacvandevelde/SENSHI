@@ -1,0 +1,241 @@
+body{
+  background-image: url(wallpaper.jpg);
+    font-family: adelle-sans,sans-serif;
+}
+a{
+ cursor: pointer;
+ text-decoration: none;
+}
+h1{
+    box-sizing: border-box;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+    font-family: adelle-sans,sans-serif;
+    transition: color .2s ease;
+    text-align: center;
+}
+h2 {
+    box-sizing: border-box;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    color: black;
+    text-transform: uppercase;
+    font-family: adelle-sans,sans-serif;
+    transition: color .2s ease;
+    text-align: center;
+}
+.card {
+  width: 100%;
+  margin:auto;
+  display: block;
+  text-align: center;
+  color:black;
+  cursor: pointer;
+  position: relative;
+  
+}
+.card img{
+  width: 397px;
+  padding-top: 5px;
+  margin: auto;
+  max-width: 397px;
+  position: relative;
+    }
+p {
+  text-align: center;
+  font-weight:bold;
+}
+#logo{
+    width: 215px;
+    max-width: 215px;
+    margin:auto;
+    display: block;
+}
+#gif_cherry{ 
+ width:300px;
+ margin-top: 5px;
+ margin:auto;
+ max-width: 300px;
+ position: relative;
+ display: block;
+}
+#sticker1{
+ width:300px;
+ margin:auto;
+ max-width: 300px;
+ position: relative;
+ display: block;
+}
+#foto_lookbook{
+ max-width:300px;
+ margin:auto;
+ position: relative;
+ margin-top:15px;
+ display: block;
+}
+.topnav{
+  max-width: 450px;
+  overflow: hidden;
+  background-color: none;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #000;
+  text-transform: uppercase;
+  font-family: adelle-sans,sans-serif;
+  transition: color .2s ease;
+  text-align: center;
+  justify-content: space-between;
+  margin: auto;
+  position: relative;
+}
+.topnav a{
+ max-width:100px;
+ margin:auto;
+ text-decoration: none;
+ color:black;
+ font-size: 25px;
+ display: inline-block;
+ padding: 5px;
+}
+.bron{
+  min-width: 100%;
+  margin-top: 100px;
+}
+#bron_tekst{
+    max-width: 307px;
+    margin: auto;
+    font-family: adelle-sans, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    padding: none;
+    margin: auto auto auto auto;
+    max-width: 150px;
+    width: 150px;
+    float: none;
+    display: block;
+    position: relative;
+}
+
+p{
+    font-family: adelle-sans, sans-serif;
+    font-weight: bold;
+}
+
+#social-mediabar{
+  float:right;
+}
+#SHOP{
+  max-width: 400px;
+  margin:auto;
+}
+a #productlink{
+  width: 307px;
+  max-width: 307px;
+  margin:auto;
+}
+#welcome_shop {
+    color: black;
+    transform: uppercase;
+    max-width: 350px;
+    margin: auto;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+#img_shop{
+    width:300px;
+    max-width: 300px;
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    position: relative;
+    display: block;
+}
+#img_about{
+  max-width: 340px;
+  margin-top: 5px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+  position: relative;
+}
+.tekstje{
+    text-align: center;
+    font-size: 1.3em;
+    width:350px;
+    max-width: 350px;
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    position: relative;
+    display: block;
+}
+#artikel{
+    width: 300px;
+    max-width: 300px;
+    margin: auto;
+    display: block;
+    position: relative;
+}
+#productname{
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+}
+.fa{
+  font-size: 25px;
+}
+.personal-container{
+  margin:auto;
+  width:340px;
+  max-width: 340px;
+  display: block;
+  position: relative;
+}
+.product{
+  width:350px;
+  max-width: 350px;
+  margin: auto;
+}
+#beschrijving{
+   text-align: center;
+   margin-top: 2px;
+   margin-bottom: 0px;
+   position: relative;
+}
+.beschrijving{
+    width: 350px;
+    max-width: 350px;
+    position: relative;
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(144,144,144);
+    text-align:center;
+}
+#prijs{
+    font-weight:900;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 3px;
+}
+#img_product{
+    width: 350px;
+    display: block;
+    margin:auto;
+    max-width: 350px;
+    position: relative;
+    margin-top:30px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+
+}
